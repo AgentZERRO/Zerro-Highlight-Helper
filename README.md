@@ -9,7 +9,7 @@ ZHH (**Z**erro **H**ighlight **H**elper) | A helper for ZERѲ users to deploy th
 This repository contains two main scripts for creating and preparing an NFT collection:
 
 1. [**`generator.py`**](./generator.py) — Generates images and initial metadata for the collection based on layered assets.
-2. [**`metadata_convertor.py`**](./metadata_convertor.py) — Converts the generated metadata into the [highlight.xyz](https://highlight.xyz) standard format.
+2. [**`metadata_converter.py`**](./metadata_converter.py) — Converts the generated metadata into the [highlight.xyz](https://highlight.xyz) standard format.
 
 ---
 
@@ -82,7 +82,7 @@ project_root/
 │   ├── metadata/...
 ├── metadata.json
 ├── generator.py
-├── metadata_convertor.py
+├── metadata_converter.py
 ├── layers/
 │   ├── background/
 │   │   ├── Blue#40.png
