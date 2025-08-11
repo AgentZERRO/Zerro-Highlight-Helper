@@ -1,4 +1,4 @@
-# metadata_convertor.py
+# metadata_converter.py
 import os
 import json
 import random
